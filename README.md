@@ -75,6 +75,7 @@ plt.tight_layout()
 plt.show()
 ```
 ## TABULATION
+<img width="740" height="629" alt="image" src="https://github.com/user-attachments/assets/896c8ab3-4b0d-4ba0-98ff-58194f8601d1" />
 
 ## OUTPUT
 

@@ -77,8 +77,8 @@ plt.show()
 ## TABULATION
 <img width="740" height="629" alt="image" src="https://github.com/user-attachments/assets/896c8ab3-4b0d-4ba0-98ff-58194f8601d1" />
 
-## OUTPUT
 
+## OUTPUT
 <img width="947" height="557" alt="image" src="https://github.com/user-attachments/assets/5c123552-cc1f-4e8b-9e6e-ebaba10ad51e" />
 
 ## RESULT
